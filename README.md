@@ -1,7 +1,1 @@
-### Grading
-Area           | Grade (0-10)
--------------- | ------------
-Implementation |
-Design         |
-Documentation  |
-Total          |
+Java desktop application for renting apartments using Spring and Thymeleaf.
